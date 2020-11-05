@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.14.0.final using JasperReports Library version 6.14.0-2ab0d8625be255bf609c78e1181801213e51db8f  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Blank_A4" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="c685fd77-7e9f-4762-9a4a-422d1c15aed0">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="500" splitType="Stretch">
+			<property name="com.jaspersoft.studio.unit.height" value="px"/>
+			<genericElement>
+				<reportElement x="94" y="93" width="236" height="107" uuid="0dbdbc2d-cead-47eb-8605-e18cc325259a"/>
+				<genericElementType namespace="http://jasperreports.sourceforge.net/jasperreports/customPDFexpoter" name="print"/>
+			</genericElement>
+		</band>
+	</title>
+</jasperReport>
